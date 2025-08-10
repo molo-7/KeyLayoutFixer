@@ -32,7 +32,7 @@
 
 إذا أعجبتك الأداة وتريد تشغيلها تلقائيًا مع تشغيل الكمبيوتر، اتبع الخطوات التالية:
 
-1. حمل [أحدث نسخة](https://github.com/molo-7/KeyLayoutFixer/releases/latest)
+1. حمل [أحدث نسخة](https://github.com/molo-7/KeyLayoutFixer/releases/latest) ( KeyLayoutFixer.rar )
 2. اضغط **`Win + R`** واكتب:
 
 ```
